@@ -97,6 +97,6 @@ By analyzing historical transaction data — including purchase behavior, demogr
 
 Kashish Tomar
 
-GitHub: https://github.com/kashishtomar-11
+GitHub: @Kashishtomar-11
 
 💼 Internship Project – Customer Segmentation for Online Retail  
