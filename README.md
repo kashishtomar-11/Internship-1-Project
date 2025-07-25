@@ -1,4 +1,4 @@
-🛍️ Online Retail Customer Segmentation
+## 🛍️ Online Retail Customer Segmentation
 
 📌 Project Type
 Unsupervised Learning – Customer Segmentation using K-Means Clustering
@@ -94,6 +94,9 @@ By analyzing historical transaction data — including purchase behavior, demogr
 - Automate anomaly detection for returns or unusual pricing patterns.
 
 🤝 Author
+
 Kashish Tomar
-🔗 GitHub Profile
+
+GitHub: @kashishtomar-11
+
 💼 Internship Project – Customer Segmentation for Online Retail  
